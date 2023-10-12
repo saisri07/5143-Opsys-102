@@ -4,7 +4,7 @@
 
 ## Group Members
 - Sai Neeraj Chandragiri
-- Sai Teja
+- Sai Teja Sripathi
 - Naveen kumar Poka
   
 ## Introduction
