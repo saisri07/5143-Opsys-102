@@ -48,7 +48,7 @@ This python project will implement a virtual filesystem. We used Sqlite to creat
 |cp|Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY| Naveen |
 |mv| Rename SOURCE to DEST, or move SOURCE(s) to DIRECTORY | Naveen |
 |rm|It is used to delete files/directories| Sai Teja |
-|Insert|Inserts the file from local to database| Sai Teja |
+|Insert|Inserts the file from local to database| Sai Neeraj |
 
 
 
