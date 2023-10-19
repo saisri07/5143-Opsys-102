@@ -9,7 +9,7 @@
 - Naveen kumar Poka
   
 ## Introduction
-This project will implement a virtual database that uses Sqlite as its storage. We are mimicking some shell commands using virtual database
+This python project will implement a virtual filesystem. We used Sqlite to create a database for the filesystem's storage. We have inserted some sample files and folders in to the database, we replicated some shell comands on those files and folders.
 
 
 ## Prerequisites
@@ -19,25 +19,10 @@ This project will implement a virtual database that uses Sqlite as its storage. 
 
 ## Requirements
 
-- humanize==0.0.0
-- prettytable==3.9.0
-- rich==13.6.0
+- humanize
+- prettytable
+- rich
 
-
-## Commands
-
-|   Command   | Description | Author | 
-| :---: | ----------- | ---------------------- |   
-|ls|	listing files and directories | Sai Neeraj	|
-|mkdir|	Make folder  on current directory or desired location|Sai Teja	|
-|cd	|Change the shell working directory |Sai Teja	|
-|cd..	|Change the shell working directory |Sai Teja	|
-|pwd	|Show current working directory |Sai Neeraj	|
-| History  | shows history of commands used in terminal | Sai Neeraj |   
-|chmod| chmod is used to change the file permissions | Naveen |
-|cp|Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY| Naveen |
-|mv| Rename SOURCE to DEST, or move SOURCE(s) to DIRECTORY | Naveen |
-|rm|It is used to delete files/directories| Sai Teja |
 
 ## Files
 
@@ -48,7 +33,26 @@ This project will implement a virtual database that uses Sqlite as its storage. 
 |  walkthrough.py  |  file to present an walkthrough of file system functionality implemented.      |
 
 
+
+## Commands
+
+|   Command   | Description | Author | 
+| :---: | ----------- | ---------------------- |   
+|ls|	listing files and directories | Sai Neeraj	|
+|mkdir|	Make folder  on current directory or desired location|Sai Teja	|
+|cd	|Change the shell working directory |Sai Teja	|
+|cd..	|Moving up one directory level |Sai Teja	|
+|pwd	|Show current working directory |Sai Neeraj	|
+| History  | shows history of commands used in terminal | Sai Neeraj |   
+|chmod| chmod is used to change the file permissions | Naveen |
+|cp|Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY| Naveen |
+|mv| Rename SOURCE to DEST, or move SOURCE(s) to DIRECTORY | Naveen |
+|rm|It is used to delete files/directories| Sai Teja |
+|Insert|Inserts the file from local to database| Sai Teja |
+
+
+
 ## Steps to execute
 
-- python walkthrough.py
+- python3 walkthrough.py
 - Hit Enter to continue after each command 
