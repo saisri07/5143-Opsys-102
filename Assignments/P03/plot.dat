@@ -1,0 +1,3 @@
+['Algorithm: FCFS', 'CPU Utilization: 99.88221436984688%', 'IO Utilization: 40.16489988221437%', 'Average Turnaround Time: 692.4 s', 'Average Ready Wait Time: 463.8 s', 'Average I/O Wait Time: 0.0 s']
+['Algorithm: PB', 'CPU Utilization: 99.88221436984688%', 'IO Utilization: 40.16489988221437%', 'Average Turnaround Time: 713.2 s', 'Average Ready Wait Time: 484.6 s', 'Average I/O Wait Time: 0.0 s']
+['Algorithm: RR', 'CPU Utilization: 99.64747356051704%', 'IO Utilization: 40.070505287896594%', 'Average Turnaround Time: 713.8 s', 'Average Ready Wait Time: 468.8 s', 'Average I/O Wait Time: 16.4 s']
